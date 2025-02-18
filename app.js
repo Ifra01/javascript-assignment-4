@@ -94,6 +94,7 @@
 //     if (userInput === A[i]) {
 //         document.write(A[i] + " is available at index " + i + " in our bakery")
 //         figureOut = true;
+//         break;
 //     }
 // }
 // if (figureOut === false) {
@@ -118,7 +119,7 @@
 // Question 9 Write a program to identify the smallest number in the
 // given array.
 // A = [24, 53, 78, 91, 12]
-// answer: 
+// answer:
 // let array = [24, 53, 78, 91, 12];
 // let smallest = array[0];
 // for (i = 0; i <= array.length; i++) {
